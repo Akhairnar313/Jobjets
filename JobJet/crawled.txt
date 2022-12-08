@@ -1,0 +1,16 @@
+
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/?page=2
+http://127.0.0.1:8000/en/
+http://127.0.0.1:8000/en/employee/register/
+http://127.0.0.1:8000/en/employer/register/
+http://127.0.0.1:8000/en/jobs/
+http://127.0.0.1:8000/en/jobs/11/
+http://127.0.0.1:8000/en/jobs/12/
+http://127.0.0.1:8000/en/jobs/13/
+http://127.0.0.1:8000/en/jobs/14/
+http://127.0.0.1:8000/en/jobs/15/
+http://127.0.0.1:8000/en/jobs/16/
+http://127.0.0.1:8000/en/jobs/17/
+http://127.0.0.1:8000/en/login/
+http://127.0.0.1:8000/en/templates
